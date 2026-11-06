@@ -1,0 +1,14 @@
+{
+    "wav": [
+        "/wav/wav1.wav",
+        "/wav/wav2.wav",
+        "/wav/wav3.wav",
+        "/wav/wav4.wav",
+        "/wav/wav5.wav",
+        "/wav/wav6.wav",
+        "/wav/wav7.wav",
+        "/wav/wav8.wav",
+        "/wav/wav9.wav"
+    ],
+    "_base": "https://raw.githubusercontent/drocc3881-prog/Strudel_Wav1/main"
+}
